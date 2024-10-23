@@ -1,14 +1,18 @@
 ## 모바일 청첩장 사이드 프로젝트
 
--   기술스택
-    -- Next.js App Router
-    -- Tailwind css
-    -- Typescript
+1.  기술스택
 
--   데이터베이스
-    -- MongoDB
--   배포
-    -- Vercel
+    -   Next.js App Router
+    -   Tailwind css
+    -   Typescript
+
+2.  데이터베이스
+
+    -   MongoDB
+
+3.  배포
+
+    -   Vercel
 
 ## Getting Started
 
