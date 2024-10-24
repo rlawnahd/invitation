@@ -3,14 +3,18 @@
 1.  기술스택
 
     -   Next.js App Router
-    -   Tailwind css
     -   Typescript
 
-2.  데이터베이스
+2.  라이브러리
+
+    -   Tailwind CSS (css)
+    -   next-themes (next.js 다크모드)
+
+3.  데이터베이스
 
     -   MongoDB
 
-3.  배포
+4.  배포
 
     -   Vercel
 
@@ -19,13 +23,8 @@
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
